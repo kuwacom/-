@@ -1,0 +1,17 @@
+C:\Users\owner\Desktop\開発\c#\城之内\bin\Debug\net6.0-windows\城之内.exe
+C:\Users\owner\Desktop\開発\c#\城之内\bin\Debug\net6.0-windows\城之内.deps.json
+C:\Users\owner\Desktop\開発\c#\城之内\bin\Debug\net6.0-windows\城之内.runtimeconfig.json
+C:\Users\owner\Desktop\開発\c#\城之内\bin\Debug\net6.0-windows\城之内.dll
+C:\Users\owner\Desktop\開発\c#\城之内\bin\Debug\net6.0-windows\ref\城之内.dll
+C:\Users\owner\Desktop\開発\c#\城之内\bin\Debug\net6.0-windows\城之内.pdb
+C:\Users\owner\Desktop\開発\c#\城之内\obj\Debug\net6.0-windows\城之内.csproj.AssemblyReference.cache
+C:\Users\owner\Desktop\開発\c#\城之内\obj\Debug\net6.0-windows\城之内.Form1.resources
+C:\Users\owner\Desktop\開発\c#\城之内\obj\Debug\net6.0-windows\城之内.csproj.GenerateResource.cache
+C:\Users\owner\Desktop\開発\c#\城之内\obj\Debug\net6.0-windows\城之内.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\Desktop\開発\c#\城之内\obj\Debug\net6.0-windows\城之内.AssemblyInfoInputs.cache
+C:\Users\owner\Desktop\開発\c#\城之内\obj\Debug\net6.0-windows\城之内.AssemblyInfo.cs
+C:\Users\owner\Desktop\開発\c#\城之内\obj\Debug\net6.0-windows\城之内.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\開発\c#\城之内\obj\Debug\net6.0-windows\城之内.dll
+C:\Users\owner\Desktop\開発\c#\城之内\obj\Debug\net6.0-windows\ref\城之内.dll
+C:\Users\owner\Desktop\開発\c#\城之内\obj\Debug\net6.0-windows\城之内.pdb
+C:\Users\owner\Desktop\開発\c#\城之内\obj\Debug\net6.0-windows\城之内.genruntimeconfig.cache
